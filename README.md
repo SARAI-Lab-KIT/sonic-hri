@@ -1,7 +1,6 @@
 # Getting started
 ## Related publication
-This repository accompanies the following paper, accepted at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026):
-<Paper link and DOI TBA>
+This repository accompanies the following paper, accepted at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026): (Paper link and DOI TBA)
 ## Documentation Maintainer(s)
 Sonic-HRI workspace -> Vlatka Tolj (vlatka.tolj@student.kit.edu), Turtlebot4 & Stretch 3 robot -> Victoria Yang (victoria.yang@kit.edu)
 ## Notes 
