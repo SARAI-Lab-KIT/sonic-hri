@@ -4,7 +4,7 @@
 If you are setting this up on your own laptop, then proceed in this README, if you are setting up either the turtlebot or a stretch3 robot, you could first follow the READMEs for these respective robots ``README_robot_turtlebot.md`` or ``README_robot_stretch3.md``
 
 ### Note_2 For Stretch3 robot users only
-If you are not in the process of setting up a brand new Stretch robot, then you only need to follow instructions in section 0 of ``README_robot_stretch3.md`` and section 3 onwards of this readme, ``README_sonic_hri_workspace.md`` otherwise follow all steps. 
+If you are not in the process of setting up a brand new Stretch robot, then you only need to follow instructions in section 0 of ``README_robot_stretch3.md`` and section 3 onwards of this readme, ``README.md`` otherwise follow all steps. 
 
 ### Documentation Maintainer(s)
 Sonic-HRI workspace -> Vlatka Tolj (vlatka.tolj@student.kit.edu), Turtlebot4 & Stretch 3 robot -> Victoria Yang (victoria.yang@kit.edu)
