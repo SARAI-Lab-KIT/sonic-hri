@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>emotion_detection</name>
+  <version>0.0.0</version>
+  <description>ROS2 node for detecting the closest emotion based on VA coordinates.</description>
+  <maintainer email="vlatka.tolj@student.kit.edu">Vlatka Tolj</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <build_depend>rclpy</build_depend>
+  <build_depend>emotion_msgs</build_depend>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>emotion_msgs</exec_depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
